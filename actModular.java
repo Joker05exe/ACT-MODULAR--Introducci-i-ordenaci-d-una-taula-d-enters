@@ -49,8 +49,6 @@ public class actModular {
 
     /**
      * Mètode 2: Ordenació de dades (Manual - Bombolla)
-     * Rep un array d’enters i retorna l’array ordenat de menor a major
-     * sense utilitzar llibreries externes.
      */
     public static int[] ordenarDades(int[] taula) {
         // Algorisme de la Bombolla (Bubble Sort)
