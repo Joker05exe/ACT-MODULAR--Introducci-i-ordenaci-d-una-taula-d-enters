@@ -1,4 +1,3 @@
-// ...existing code...
 # ACT-MODULAR — Introducció i ordenació d'una taula d'enters
 
 Aquest README descriu com el programa compleix els requisits de l'activitat.
@@ -35,4 +34,3 @@ Enllaços
 -------
 - [actModular.java](actModular.java)
 - [README.md](README.md)
-// ...existing
